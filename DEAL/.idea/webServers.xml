@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f63aa6b-cbae-47db-915b-57388f2de58a" name="annan_DEAL_re">
+        <fileTransfer rootFolder="/data1/annan" accessType="SFTP" host="210.30.97.212" port="12025" sshConfigId="c1f4388d-8367-483f-ae92-7aaa51ac903a" sshConfig="annan@210.30.97.212:12025 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
