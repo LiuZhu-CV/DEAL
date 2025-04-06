@@ -1,9 +1,9 @@
 <h2 align="center">DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging</h2>
 
 Zhu Liu†, Zijun Wang†, Jinyuan Liu‡, Fanqi Meng†, Long Ma†, Risheng Liu†*
+
 †School of Software Technology, Dalian University of Technology
 ‡School of Mechanical Engineering, Dalian University of Technology
-liuzhu@mail.dlut.edu.cn,wzijun6@gmail.com, rsliu@dlut.edu.cn
 </div>
 
 
